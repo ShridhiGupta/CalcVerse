@@ -1,4 +1,4 @@
-﻿# CalcVerse - Interactive Animated Calculator 
+﻿# CalcVerse - Interactive Animated Calculator Game
 
 An engaging calculator game where solving math challenges affects the animated environment. Correct answers stabilize the background and unlock new levels, while wrong answers trigger visual distortions and particle explosions.
 
@@ -99,4 +99,5 @@ calcverse/
 ## License
 
 MIT
+
 
