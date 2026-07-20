@@ -98,6 +98,5 @@ calcverse/
 
 ## License
 
-MIT
 
 
