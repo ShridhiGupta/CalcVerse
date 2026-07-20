@@ -95,8 +95,4 @@ calcverse/
 │   └── gameEngine.ts        # Game state & challenge generation
 └── package.json
 ```
-
-## License
-
-
-
+
