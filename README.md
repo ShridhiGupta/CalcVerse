@@ -4,14 +4,14 @@ An engaging calculator game where solving math challenges affects the animated e
 
 ## Features
 
-- 🎮 **Interactive Gameplay**: Solve math challenges using a fully functional calculator
-- 🎨 **Animated Background**: Dynamic particle system with gradient meshes that react to your answers
-- ✨ **Visual Feedback**: 
+- **Interactive Gameplay**: Solve math challenges using a fully functional calculator
+- **Animated Background**: Dynamic particle system with gradient meshes that react to your answers
+- **Visual Feedback**: 
   - Correct answers: Glow effects, stabilized particles
   - Wrong answers: Screen shake, particle explosions
-- 🏆 **Scoring System**: Points, levels, and combo multipliers
-- ⌨️ **Keyboard Support**: Full keyboard input for calculator operations
-- ⏱️ **Time Pressure**: Timer adds urgency and bonus points
+- **Scoring System**: Points, levels, and combo multipliers
+- **Keyboard Support**: Full keyboard input for calculator operations
+- **Time Pressure**: Timer adds urgency and bonus points
 
 ## Tech Stack
 
