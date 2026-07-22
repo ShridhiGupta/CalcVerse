@@ -94,4 +94,4 @@ calcverse/
 │   ├── calculatorLogic.ts  # Calculator engine
 │   └── gameEngine.ts        # Game state & challenge generation
 └── package.json
-```
+```
